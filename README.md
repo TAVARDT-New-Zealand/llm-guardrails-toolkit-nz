@@ -57,7 +57,13 @@ python guardrails_scanner.py -file prompt.txt -json
 
 - **Compliance Standard**: OWASP Top 10 for LLM Applications Standard
 
+***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/nz/
+* **Diagnostic Suite:** https://tools.tavardt.com/nz/
+* **Technical Contact:** https://ag.tavardt.com/nz/contact/
 
 ***
 
