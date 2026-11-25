@@ -2,6 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-5b3cf5.svg)](https://tavardt-new-zealand.github.io/llm-guardrails-toolkit-nz/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Heuristic and rule-based prompt hardening against jailbreaks, system prompt extraction, indirect prompt injection, and data exfiltration.
 
